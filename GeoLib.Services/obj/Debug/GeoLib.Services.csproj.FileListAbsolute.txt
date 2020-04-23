@@ -1,0 +1,5 @@
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Services\bin\Debug\GeoLib.Services.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Services\bin\Debug\GeoLib.Services.pdb
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Services\obj\Debug\GeoLib.Services.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Services\obj\Debug\GeoLib.Services.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Services\obj\Debug\GeoLib.Services.pdb

@@ -1,0 +1,14 @@
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\GeoLib.Tests.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\GeoLib.Tests.pdb
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\obj\Debug\GeoLib.Tests.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\obj\Debug\GeoLib.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\obj\Debug\GeoLib.Tests.csproj.CopyComplete
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\obj\Debug\GeoLib.Tests.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Tests\obj\Debug\GeoLib.Tests.pdb

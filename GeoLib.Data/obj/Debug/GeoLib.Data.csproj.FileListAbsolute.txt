@@ -1,0 +1,15 @@
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Data.dll.config
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Data.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Data.pdb
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\EntityFramework.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Core.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Core.pdb
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\GeoLib.Core.dll.config
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\EntityFramework.xml
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\obj\Debug\GeoLib.Data.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\obj\Debug\GeoLib.Data.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\obj\Debug\GeoLib.Data.csproj.CopyComplete
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\obj\Debug\GeoLib.Data.dll
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Data\obj\Debug\GeoLib.Data.pdb
