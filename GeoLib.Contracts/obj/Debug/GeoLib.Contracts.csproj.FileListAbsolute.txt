@@ -3,3 +3,4 @@ C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Contracts\bin\Debug\GeoL
 C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csproj.CoreCompileInputs.cache
 C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
 C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb
+C:\Users\rober\Source\Repos\pluralsight-wcf-core\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojAssemblyReference.cache
