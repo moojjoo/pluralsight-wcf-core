@@ -10,6 +10,8 @@ namespace GeoLib.Services
 {
     public class GeoManager : IGeoService
     {
+        private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
+
         public IEnumerable<string> GetStates(bool primaryOnly)
         {
             throw new NotImplementedException();
