@@ -1,14 +1,17 @@
-﻿using System;
+﻿using GeoLib.Core;
+using NLog;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
-using GeoLib.Core;
 
 namespace GeoLib.Data
 {
     public class ZipCodeRepository : DataRepositoryBase<ZipCode, GeoLibDbContext>, IZipCodeRepository
     {
+        private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
+
         protected override DbSet<ZipCode> DbSet(GeoLibDbContext entityContext)
         {
             return entityContext.ZipCodeSet;
@@ -43,6 +46,7 @@ namespace GeoLib.Data
         {
             using (GeoLibDbContext entityContext = new GeoLibDbContext())
             {
+                Logger.Info("Get by {state}", state);
                 return entityContext.ZipCodeSet
                     .Include(e => e.State)
                     .Where(e => e.State.Abbreviation == state).ToFullyLoaded();

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Runtime.Serialization;
 
 namespace GeoLib.Contracts
 {
@@ -16,6 +11,8 @@ namespace GeoLib.Contracts
         public string State { get; set; }
         [DataMember]
         public string ZipCode { get; set; }
+        [DataMember]
+        public string Abbreviation { get; set; }
 
     }
 }
